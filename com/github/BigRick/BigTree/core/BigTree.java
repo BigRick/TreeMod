@@ -1,6 +1,6 @@
 package com.github.BigRick.BigTree.core;
 
-import com.github.BigRick.config.ConfigurationHandler;
+import com.github.BigRick.BigTree.config.ConfigurationHandler;
 
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.Init;
@@ -29,7 +29,7 @@ public class BigTree
 	@Init
 	void load(FMLInitializationEvent event)
 	{
-		event.
+		//event.
 	}
 
 	@PostInit

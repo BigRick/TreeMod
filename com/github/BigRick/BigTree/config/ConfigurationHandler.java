@@ -1,4 +1,4 @@
-package com.github.BigRick.config;
+package com.github.BigRick.BigTree.config;
 
 import java.io.File;
 import java.util.logging.Level;
